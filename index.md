@@ -8,6 +8,7 @@ Here's all my favorite personal projects, split up between my professional githu
 
 - [Machine Learning Jupyter Notebooks](https://github.com/russellgill/MachineLearningNotebooks) are a collection of Jupyter notebooks showcasing cool datasets and machine learning results.
 - [Artemis-Faker](https://github.com/russellgill/Artemis-Faker) An minimal fork of [Daniele Faraglia's](https://github.com/joke2k) Python fake data generator using a more modern Numpy random data generator.
+
 ### Professional Projects
 
 Here's a [link](https://github.com/ryanmwhitephd/artemis) to the Artemis project, a streaming-data analytics platform built off Apahche's new Arrow data format. This project serves as a proof-of-concept for the Arrow data format, and illustrates the flexibility of this format.
