@@ -10,6 +10,8 @@ Here's all my favorite personal projects, split up between my professional githu
 - [Spider](http://127.0.0.1) will not only run automated google querries for you, but will then scrape those sites for the information you're looking for and present everything into a lovely SQL database.
 - [Automated Deployment](http://127.0.0.1) scripts for Linux work-stations. Go from no frills operating system, to fully featured development system in one command.
 
+### Professional Projects
+
 - [Artemis](https://github.com/ryanmwhitephd/artemis) is a streaming-data analytics platform built off Apahche's new Arrow data format. This project serves as a proof-of-concept for the Arrow data format, and illustrates the flexibility of Arrow.
 
 - [Artemis-Faker](https://github.com/russellgill/Artemis-Faker) An minimal fork of [Daniele Faraglia's](https://github.com/joke2k) Python fake data generator using a more modern Numpy random data generator.
