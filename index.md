@@ -7,7 +7,9 @@ Welcome to my personal site! Here you will find a bunch of links to both my pers
 Here's all my favorite personal projects, split up between my professional github, and my personal github.
 
 - [Machine Learning Jupyter Notebooks](https://github.com/russellgill/MachineLearningNotebooks) are a collection of Jupyter notebooks showcasing cool datasets and machine learning results.
+
 - [Spider](http://127.0.0.1) will not only run automated google querries for you, but will then scrape those sites for the information you're looking for and present everything into a lovely SQL database.
+
 - [Automated Deployment](http://127.0.0.1) scripts for Linux work-stations. Go from no frills operating system, to fully featured development system in one command.
 
 ### Professional Projects
