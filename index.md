@@ -24,5 +24,5 @@ Let's check out some projects that are downright cool in one way or another.
 
 - [Apache Arrow](https://github.com/apache/arrow) A langage agonstic in-memory data format
 - [T-Digest](https://github.com/tdunning/t-digest) Chunk-based data processing
-- [The Open Logic Project](https://github.com/OpenLogicProject/OpenLogic) is a fantastic, open-source logic textbook covering everything from Boolean Logic to advanced philosophical logic.
-- [A large repo](https://github.com/subbarayudu-j/TheAlgorithms-Python) of algorithms worked up in Python 3. A fantastic cook-book for the computer scientist on a short timeframe. 
+- [The Open Logic Project](https://github.com/OpenLogicProject/OpenLogic) is the Wikipedia of logic textbooks.
+- [A large repo](https://github.com/subbarayudu-j/TheAlgorithms-Python) of pre-made algorithms in Python.
