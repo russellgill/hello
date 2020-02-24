@@ -16,7 +16,7 @@ Here's all my favorite personal projects, split up between my professional githu
 
 - [Artemis](https://github.com/ryanmwhitephd/artemis) is a streaming-data analytics platform built off Apahche's new Arrow data format. This project serves as a proof-of-concept for the Arrow data format, and illustrates the flexibility of Arrow.
 
-- [Artemis-Faker](https://github.com/russellgill/Artemis-Faker) An minimal fork of [Daniele Faraglia's](https://github.com/joke2k) Python fake data generator using a more modern Numpy random data generator.
+- [Artemis-Faker](https://github.com/russellgill/Artemis-Faker) A minimal redesign based on [Daniele Faraglia's](https://github.com/joke2k) Python fake data generator using a more modern Numpy random data generator. Artemis-Faker replaces the provider class design pattern with an interface allowing random-data generation from statistical modelling code.
 
 ### Personal Businesses
 
