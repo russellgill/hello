@@ -18,6 +18,14 @@ Here's all my favorite personal projects, split up between my professional githu
 
 - [Bank Simulator (Golang)](http://127.0.0.1) API allows external software to interact with a mock bank. Part of a small personal project testing the effectiveness of trading algorithms on historic data.
 
+### Coursework
+
+Here's a collection of projects and assignments completed for various courses. Each specific course has it's own directory.
+
+- [Moleculear Simulation and Computational Chemistry](http://127.0.0.1) Be advised -- There's Fortran inside.
+
+- [Computational Tools for Biological Sciences](http://127.0.0.1) is a collection of Jupyter Notebooks with assignments from this course. All notebooks are Python.
+
 ### Professional Projects
 
 - [Artemis](https://github.com/ryanmwhitephd/artemis) is a streaming-data analytics platform built off Apahche's new Arrow data format. This project serves as a proof-of-concept for the Arrow data format, and illustrates the flexibility of Arrow.
