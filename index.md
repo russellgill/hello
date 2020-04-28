@@ -22,7 +22,7 @@ Here's all my favorite personal projects, split up between my professional githu
 
 Here's a collection of projects and assignments completed for various courses. Each specific course has it's own directory.
 
-- [Moleculear Simulation and Computational Chemistry](http://127.0.0.1) Be advised -- There's Fortran inside.
+- [Moleculear Simulation and Computational Chemistry](http://127.0.0.1) Be advised -- there's Fortran inside.
 
 - [Computational Tools for Biological Sciences](http://127.0.0.1) is a collection of Jupyter Notebooks with assignments from this course. All notebooks are Python.
 
