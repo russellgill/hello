@@ -32,10 +32,6 @@ Here's a collection of projects and assignments completed for various courses. E
 
 - [Artemis-Faker](https://github.com/russellgill/Artemis-Faker) A minimal redesign based on [Daniele Faraglia's](https://github.com/joke2k) Python fake data generator using a more modern Numpy random data generator. Artemis-Faker replaces the provider class design pattern with an interface allowing random-data generation from statistical modelling code.
 
-### Personal Businesses
-
-Curious about my freelance business backpack.technology? Here's a link to my site!
-
 ### Awesome Projects 
 
 Let's check out some projects that are downright cool in one way or another.
