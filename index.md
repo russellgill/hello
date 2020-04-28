@@ -16,6 +16,8 @@ Here's all my favorite personal projects, split up between my professional githu
 
 - [Digital Ocean Cloud CLI (Java)](http://127.0.0.1) is a minimal CLI tool for creating, viewing and destroying digital ocean virtual machines.
 
+- [Bank Simulator (Golang)](http://127.0.0.1) API allows external software to interact with a mock bank. Part of a small personal project testing the effectiveness of trading algorithms on historic data.
+
 ### Professional Projects
 
 - [Artemis](https://github.com/ryanmwhitephd/artemis) is a streaming-data analytics platform built off Apahche's new Arrow data format. This project serves as a proof-of-concept for the Arrow data format, and illustrates the flexibility of Arrow.
