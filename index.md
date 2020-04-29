@@ -21,11 +21,11 @@ Here's all my favorite personal projects, split up between my professional githu
 
 ### Coursework
 
-Here's a collection of projects and assignments completed for various courses. Each specific course has it's own directory containing a conglomerate of code in various languages. As of now, these are rather messy repos!
+Here's a collection of projects and assignments completed for various courses. Each specific course has it's own directory containing a conglomerate of code in various languages. As of now, these are rather messy repos, and will be expanded/updated over the next few weeks.
 
-- [Moleculear Simulation and Computational Chemistry](http://127.0.0.1) Be advised -- there's Fortran inside.
+- [Moleculear Simulation and Computational Chemistry](https://github.com/russellgill/MoleculearSimulation) Be advised -- there's Fortran inside. 
 
-- [Computational Tools for Biological Sciences](http://127.0.0.1) is a collection of Jupyter Notebooks with assignments from this course. All notebooks are Python.
+- [Computational Tools for Biological Sciences](https://github.com/russellgill/ComputationalBiology) is a collection of Jupyter Notebooks with assignments from this course. All notebooks are Python.
 
 ### Professional Projects
 
