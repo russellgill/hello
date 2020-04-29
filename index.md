@@ -10,7 +10,7 @@ Here's all my favorite personal projects, split up between my professional githu
 
 - [Parkinson's Detection (Python 3)](http://127.0.0.1) toolkit based on a final project for my Computational Biology course. Using an ensemble machine learning system, trained on an open dataset, benchmarks were established to see the effectiveness of the system as a classification tool.
 
-- [Data Structures (Golang)](http://127.0.0.1) are a collection of data structures (and some algorithms) worked-up in Golang. Mostly the result of self-directed learning on the topic, with some experementation thrown in the mix.
+- [Data Structures (Golang)](https://github.com/russellgill/GoDataStrucs) are a collection of data structures (and some algorithms) worked-up in Golang. Mostly the result of self-directed learning on the topic, with some experementation thrown in the mix.
 
 - [XInput Mapper (C#)](https://github.com/russellgill/XPadInput) is a small toolkit that allows you to map keystrokes to an XInput gamepad's output. Great tool for games that otherwise do not support gamepad input!
 
