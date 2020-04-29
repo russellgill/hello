@@ -45,6 +45,8 @@ Not all projects get to a fully developed state, and sometimes it's just fun to 
 
 - [Python workshop](https://github.com/russellgill/SPS_Python_Workshop/tree/master) I delivered for the UOttawa Physics Society.
 
+- [Golang Web-Assembly](https://gist.github.com/russellgill/e40b56856590e2d2be26afabd55e627f) is a very small experement on the new syscall/js module in Golang. What more could you want than being able to call Go from Javascript?
+
 ### Awesome Projects 
 
 Let's check out some projects that are downright cool in one way or another.
