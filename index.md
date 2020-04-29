@@ -12,7 +12,7 @@ Here's all my favorite personal projects, split up between my professional githu
 
 - [XInput Mapper (C#)](https://github.com/russellgill/XPadInput) is a small toolkit that allows you to map keystrokes to an XInput gamepad's output. Great tool for games that otherwise do not support gamepad input!
 
-- [Digital Ocean Cloud CLI (Java)](http://127.0.0.1) is a minimal CLI tool for creating, viewing and destroying digital ocean virtual machines.
+- [Digital Ocean Cloud CLI (Java)](https://github.com/russellgill/DigitalOceanCLI) is a minimal CLI tool for creating, viewing and destroying digital ocean virtual machines.
 
 - [Bank Simulator (Golang)](http://127.0.0.1) API allows external software to interact with a mock bank. Part of a small personal project testing the effectiveness of trading algorithms on historic data.
 
