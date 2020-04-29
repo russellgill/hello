@@ -17,7 +17,7 @@ Here's all my favorite personal projects, split up between my professional githu
 - [Bank Simulator (Golang)](https://github.com/russellgill/BankAPI) API allows external software to interact with a mock bank. Part of a small personal project testing the effectiveness of trading algorithms on historic data.
 
 
-- [Color Corrector (Python)](https://github.com/russellgill/GoDataStrucs) is a tool I built to adjust my screen color settings, essentially a GUI for Gnome's display color CLI.
+- [Color Corrector (Python)](https://github.com/russellgill/ColorCorrector) is a tool I built to adjust my screen color settings, essentially a GUI for Gnome's display color CLI.
 
 ### Coursework
 
