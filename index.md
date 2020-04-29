@@ -39,6 +39,7 @@ Not all projects get to a fully developed state, and sometimes it's just fun to 
 
 - [Machine Learning Jupyter Notebooks (Python 3)](https://github.com/russellgill/MachineLearningNotebooks) are a collection of Jupyter notebooks showcasing cool datasets and machine learning results. Not particularily strucured.
 
+- [Analysis of various silver (XAG) ETFs](https://gist.github.com/russellgill/fafa57805cefa4da8188f7a562d449da) using Monte Carlo simulations, as well as accounting for inflation. 
 
 ### Awesome Projects 
 
