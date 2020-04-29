@@ -28,9 +28,9 @@ Here's a collection of projects and assignments completed for various courses. E
 
 ### Professional Projects
 
-- [Artemis](https://github.com/ryanmwhitephd/artemis) is a streaming-data analytics platform built off Apahche's new Arrow data format. This project serves as a proof-of-concept for the Arrow data format, and illustrates the flexibility of Arrow.My professional work falls under the umbrella of this project's parent organization, and I have some code contributions to the main framework.
+- [Artemis](https://github.com/ryanmwhitephd/artemis) is a streaming-data analytics platform built off Apahche's new Arrow data format. This project serves as a proof-of-concept for the Arrow data format, and illustrates the flexibility of Arrow. My professional work falls under the umbrella of this project's parent organization, and I have some code contributions to the main framework.
 
-- [Artemis-Faker](https://github.com/russellgill/Artemis-Faker) A minimal redesign based on [Daniele Faraglia's](https://github.com/joke2k) Python fake data generator using a more modern Numpy random data generator. Artemis-Faker replaces the provider class design pattern with an interface allowing random-data generation from statistical modelling code. This code sits in the Artemis Analytics ecosystem and is my core contribution to the project.
+- [Artemis-Faker](https://github.com/russellgill/Artemis-Faker) A minimal redesign based on [Daniele Faraglia's](https://github.com/joke2k) Python fake data generator using a more modern Numpy random data generator. Artemis-Faker replaces the provider class design pattern with an interface allowing random-data generation from statistical modelling code. This means you can generate *synthetic* data, not just fake data. This code sits in the Artemis Analytics ecosystem and is my core contribution to the project.
 
 ### Experements and Testing
 
