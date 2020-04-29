@@ -10,7 +10,7 @@ This is a collection of some of the code projects I've done in my spare time. So
 
 - [Data Structures (Golang)](https://github.com/russellgill/GoDataStrucs) are a collection of data structures (and some algorithms) worked-up in Golang. Mostly the result of self-directed learning on the topic, with some experementation thrown in the mix.
 
-- [XInput Mapper (C#)](https://github.com/russellgill/XPadInput) is a small toolkit that allows you to map keystrokes to an XInput gamepad's output. Great tool for games that otherwise do not support gamepad input!
+- [XInput Mapper (C#)](https://github.com/russellgill/XPadInput) is a small tool that allows you to map keystrokes to an XInput gamepad's output. Great tool for games that otherwise do not support gamepad input! A work in progress.
 
 - [Digital Ocean Cloud CLI (Java)](https://github.com/russellgill/DigitalOceanCLI) is a minimal CLI tool for creating, viewing and destroying digital ocean virtual machines.
 
