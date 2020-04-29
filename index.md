@@ -6,7 +6,7 @@ Welcome to my personal site! Here you will find a bunch of links to both my pers
 
 This is a collection of some of the code projects I've done in my spare time. Some of them are still under development.
 
-- [Parkinson's Detection (Python 3)](https://github.com/russellgill/ParkinsonsProject/) toolkit based on a final project for my Computational Biology course. Using an ensemble machine learning system, trained on an open dataset, benchmarks were established to see the effectiveness of the system as a classification tool.
+- [Parkinson's Detection (Python 3)](https://github.com/russellgill/ParkinsonsProject/) code based on a final project for my Computational Biology course. Using an ensemble machine learning system, trained on an open dataset, benchmarks were established to see the effectiveness of the system as a classification tool.
 
 - [Data Structures (Golang)](https://github.com/russellgill/GoDataStrucs) are a collection of data structures (and some algorithms) worked-up in Golang. Mostly the result of self-directed learning on the topic, with some experementation thrown in the mix.
 
