@@ -6,8 +6,6 @@ Welcome to my personal site! Here you will find a bunch of links to both my pers
 
 Here's all my favorite personal projects, split up between my professional github, and my personal github.
 
-- [Machine Learning Jupyter Notebooks (Python 3)](https://github.com/russellgill/MachineLearningNotebooks) are a collection of Jupyter notebooks showcasing cool datasets and machine learning results.
-
 - [Parkinson's Detection (Python 3)](http://127.0.0.1) toolkit based on a final project for my Computational Biology course. Using an ensemble machine learning system, trained on an open dataset, benchmarks were established to see the effectiveness of the system as a classification tool.
 
 - [Data Structures (Golang)](https://github.com/russellgill/GoDataStrucs) are a collection of data structures (and some algorithms) worked-up in Golang. Mostly the result of self-directed learning on the topic, with some experementation thrown in the mix.
@@ -37,7 +35,10 @@ Here's a collection of projects and assignments completed for various courses. E
 
 ### Experements and Testing
 
-Not all projects get to a fully developed state, and sometimes it's just fun to try something new. Here you will find a collection of experiments, usually less than a hundred lines of code. This is a collection of code gists that I had some fun with.
+Not all projects get to a fully developed state, and sometimes it's just fun to try something new. Here you will find a collection of experiments, usually less than a hundred lines of code. This is a collection of code gists and repos that I had some fun with.
+
+- [Machine Learning Jupyter Notebooks (Python 3)](https://github.com/russellgill/MachineLearningNotebooks) are a collection of Jupyter notebooks showcasing cool datasets and machine learning results. Not particularily strucured.
+
 
 ### Awesome Projects 
 
