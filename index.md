@@ -6,7 +6,7 @@ Welcome to my personal site! Here you will find a bunch of links to both my pers
 
 Here's all my favorite personal projects, split up between my professional github, and my personal github.
 
-- [Parkinson's Detection (Python 3)](http://127.0.0.1) toolkit based on a final project for my Computational Biology course. Using an ensemble machine learning system, trained on an open dataset, benchmarks were established to see the effectiveness of the system as a classification tool.
+- [Parkinson's Detection (Python 3)](https://github.com/russellgill/ParkinsonsProject/) toolkit based on a final project for my Computational Biology course. Using an ensemble machine learning system, trained on an open dataset, benchmarks were established to see the effectiveness of the system as a classification tool.
 
 - [Data Structures (Golang)](https://github.com/russellgill/GoDataStrucs) are a collection of data structures (and some algorithms) worked-up in Golang. Mostly the result of self-directed learning on the topic, with some experementation thrown in the mix.
 
@@ -14,7 +14,7 @@ Here's all my favorite personal projects, split up between my professional githu
 
 - [Digital Ocean Cloud CLI (Java)](https://github.com/russellgill/DigitalOceanCLI) is a minimal CLI tool for creating, viewing and destroying digital ocean virtual machines.
 
-- [Bank Simulator (Golang)](http://127.0.0.1) API allows external software to interact with a mock bank. Part of a small personal project testing the effectiveness of trading algorithms on historic data.
+- [Bank Simulator (Golang)](https://github.com/russellgill/BankAPI) API allows external software to interact with a mock bank. Part of a small personal project testing the effectiveness of trading algorithms on historic data.
 
 
 - [Color Corrector (Python)](https://github.com/russellgill/GoDataStrucs) is a tool I built to adjust my screen color settings, essentially a GUI for Gnome's display color CLI.
