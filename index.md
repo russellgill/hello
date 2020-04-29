@@ -20,7 +20,7 @@ Here's all my favorite personal projects, split up between my professional githu
 
 ### Coursework
 
-Here's a collection of projects and assignments completed for various courses. Each specific course has it's own directory.
+Here's a collection of projects and assignments completed for various courses. Each specific course has it's own directory containing a conglomerate of code in various languages. As of now, these are rather messy repos!
 
 - [Moleculear Simulation and Computational Chemistry](http://127.0.0.1) Be advised -- there's Fortran inside.
 
