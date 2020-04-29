@@ -43,6 +43,8 @@ Not all projects get to a fully developed state, and sometimes it's just fun to 
 
 - [Synthetic Data Generation experement](https://gist.github.com/russellgill/9bebd703718d3a5bf81d54e0bc332dc2#file-tinkeringwithsimulation-ipynb) using a neural net and random sampelling approach. The most overkill way to simulate a linear system with increasing entropy.
 
+- [Python workshop](https://github.com/russellgill/SPS_Python_Workshop/tree/master) I delivered for the UOttawa Physics Society.
+
 ### Awesome Projects 
 
 Let's check out some projects that are downright cool in one way or another.
