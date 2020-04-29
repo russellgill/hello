@@ -8,7 +8,7 @@ This is a collection of some of the code projects I've done in my spare time. So
 
 #### Projects Related to Courses
 
-Code found here is related to, or written for my 4th year courses initially, but was later expanded on.
+Code found here is related to, or was written for my 4th year courses initially, but was later expanded on.
 
 - [Parkinson's Detection (Python 3)](https://github.com/russellgill/ParkinsonsProject/) code based on a final project for my Computational Biology course. Using an ensemble machine learning system, trained on an open dataset, benchmarks were established to see the effectiveness of the system as a classification tool.
 
