@@ -15,7 +15,7 @@ Code found here is related to, or was written for my 4th year courses initially,
 
 #### Self-Directed Projects
 
-hese projects were created in my spare time, either for fun, to learn, or solve some problem I encountered.
+These projects were created in my spare time, either for fun, to learn, or solve some problem I encountered.
 
 - [Data Structures (Golang)](https://github.com/russellgill/GoDataStrucs) are a collection of data structures (and some algorithms) worked-up in Golang. Mostly the result of self-directed learning on the topic, with some experementation thrown in the mix.
 
@@ -36,11 +36,13 @@ Here's a collection of projects and assignments completed for various courses. E
 
 - [Computational Tools for Biological Sciences](https://github.com/russellgill/ComputationalBiology) is a collection of Jupyter Notebooks with assignments from this course. All notebooks are Python.
 
-### Professional Projects
+### Professional Projects*
 
 - [Artemis (Python)](https://github.com/ryanmwhitephd/artemis) is an open-source streaming-data analytics platform built off Apahche's new Arrow data format. This project serves as a proof-of-concept for the Arrow data format, and illustrates the flexibility of Arrow. My professional work falls under the umbrella of this project's parent organization, and I have some code contributions to the main framework.
 
-- [Artemis-Faker (Python, C, Cython)](https://github.com/russellgill/ArtemisFaker) A minimal redesign based on [Daniele Faraglia's](https://github.com/joke2k) Python fake data generator using a more modern Numpy random data generator. Artemis-Faker replaces the provider class design pattern with an interface allowing random-data generation from statistical modelling code. This means you can generate *synthetic* data, not just fake data. This code sits in the Artemis Analytics ecosystem and is my core contribution to the project.
+- [Artemis-Faker (Python, C, Cython)](https://github.com/russellgill/ArtemisFaker) A minimal open-source redesign based on [Daniele Faraglia's](https://github.com/joke2k) Python fake data generator using a more modern Numpy random data generator. Artemis-Faker replaces the provider class design pattern with an interface allowing random-data generation from statistical modelling code. This means you can generate *synthetic* data, not just fake data. This code sits in the Artemis Analytics ecosystem and is my core contribution to the project.
+
+* All projects listed here are either fully open source, or published with the written permission of the copyright owner.
 
 ### Experements and Testing
 
