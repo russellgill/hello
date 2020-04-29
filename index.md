@@ -41,6 +41,8 @@ Not all projects get to a fully developed state, and sometimes it's just fun to 
 
 - [Analysis of various silver (XAG) ETFs](https://gist.github.com/russellgill/fafa57805cefa4da8188f7a562d449da) using Monte Carlo simulations, as well as accounting for inflation. 
 
+- [Synthetic Data Generation experement](https://gist.github.com/russellgill/9bebd703718d3a5bf81d54e0bc332dc2#file-tinkeringwithsimulation-ipynb) using a neural net and random sampelling approach. The most overkill way to simulate a linear system with increasing entropy.
+
 ### Awesome Projects 
 
 Let's check out some projects that are downright cool in one way or another.
