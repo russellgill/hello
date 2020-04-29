@@ -12,7 +12,7 @@ Here's all my favorite personal projects, split up between my professional githu
 
 - [Data Structures (Golang)](http://127.0.0.1) are a collection of data structures (and some algorithms) worked-up in Golang. Mostly the result of self-directed learning on the topic, with some experementation thrown in the mix.
 
-- [XInput Mapper (C#)](http://127.0.0.1) is a small toolkit that allows you to map keystrokes to an XInput gamepad's output. Great tool for games that otherwise do not support gamepad input!
+- [XInput Mapper (C#)](https://github.com/russellgill/XPadInput) is a small toolkit that allows you to map keystrokes to an XInput gamepad's output. Great tool for games that otherwise do not support gamepad input!
 
 - [Digital Ocean Cloud CLI (Java)](http://127.0.0.1) is a minimal CLI tool for creating, viewing and destroying digital ocean virtual machines.
 
