@@ -49,6 +49,8 @@ Here's a collection of projects and assignments completed for various courses. E
 
 Not all projects get to a fully developed state, and sometimes it's just fun to try something new. Here you will find a collection of experiments, usually less than a hundred lines of code. This is a collection of code gists and repos that I had some fun with.
 
+- [Scraping a website](https://gist.github.com/russellgill/855469b0ccf77fc7deef9088d9b03b5a) about mythical creatures, then using a support-vector machine to sort the text into junk text vs interesting things to read.
+
 - [Machine Learning Jupyter Notebooks (Python 3)](https://github.com/russellgill/MachineLearningNotebooks) are a collection of Jupyter notebooks showcasing cool datasets and machine learning results. Not particularily strucured.
 
 - [Analysis of various silver (XAG) ETFs](https://gist.github.com/russellgill/fafa57805cefa4da8188f7a562d449da) using Monte Carlo simulations, as well as accounting for inflation. 
